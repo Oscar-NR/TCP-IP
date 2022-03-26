@@ -1,9 +1,3 @@
-# TCP-IP
+# Chat program through a TCP-IP connection
 
-WORK IN PROGRESS.
-
-In this repository are a server of TCP-IP server and the client to comunicate between them creating a small chat program.
-The Ip direction is the local machine.
-
-
-
+This is enough to create a chat program over a linux OS.
